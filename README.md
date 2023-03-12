@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @GiorgosMathioudakis
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+About me:
+I am from Greece , currently studying Computer Science at the University Of Crete.
+
+I have worked with C,C++,Java,HTML,Css,python.
+
+
 - 📫 How to reach me -> mathioudakes@gmail.com
 
 <!---
