@@ -1,7 +1,7 @@
 About me:
 I am from Greece , currently studying Computer Science at the University Of Crete.
 
-I have worked with C,C++,Java,HTML,Css,python.
+I have worked with C,C++,Java,HTML,Css,python,Assembly.
 
 
 - 📫 How to reach me -> mathioudakes@gmail.com
