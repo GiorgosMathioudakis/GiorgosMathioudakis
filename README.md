@@ -3,6 +3,8 @@ I am from Greece , currently studying Computer Science at the University Of Cret
 
 I have worked with C,C++,Java,HTML,Css,python,Assembly.
 
+Relevant courses I have passed include Data Structures , Algorithms , Operating Systems , Data Bases , web development , web design and more.
+
 
 - 📫 How to reach me -> mathioudakes@gmail.com
 
