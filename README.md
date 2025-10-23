@@ -18,7 +18,8 @@ I'm a Computer Science Graduate from the **University of Crete**, with a passion
 
 #### ⚙️ **Tech & Tools**
 - **React.js**  
-- **Spring Boot**  
+- **Spring Boot**
+- **Quarkus**  
 - **SQL**  
 - **AWS**  
 - Git / GitHub, Postman, IntelliJ, VS Code
